@@ -11,6 +11,11 @@
     --font-color:white;
     --font-family:"Oswald", sans-serif;
 }
+.websiteRapper{
+    overflow: hidden;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
 body{
     overflow-x: hidden;
 }
